@@ -201,7 +201,7 @@ select {
 .hero-noise {
   position: absolute;
   inset: 0;
-  background-image: url("assets/clouds.webp");
+  background-image: url("assets/clouds.webp?v=20261010-assets2");
   background-size: cover;
   mask-image: linear-gradient(90deg, transparent 10%, #000);
   mix-blend-mode: screen;
@@ -1041,7 +1041,7 @@ select {
 .contact-cloud {
   position: absolute;
   inset: 0;
-  background: url("assets/mountains.webp") center / cover;
+  background: url("assets/mountains.webp?v=20261010-assets2") center / cover;
   filter: grayscale(1);
   opacity: 0.14;
 }
